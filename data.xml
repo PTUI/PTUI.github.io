@@ -1,7 +1,12 @@
 <apps>
 	<app>
-	    <url>https://PTUI.github.io/PTUI_G100_JDQ39_170818_beta.zip</url>
+	    <!--<url>https://PTUI.github.io/PTUI_G100_JDQ39_170818_beta.zip</url>
 	    <fileName>PTUI_G100_JDQ39_170818_beta.zip</fileName>
+	    <version>170818_beta</version>
+		<fileSize>Unknow</fileSize>
+-->
+	    <url>https://PTUI.github.io/RE.zip</url>
+	    <fileName>RE.zip</fileName>
 	    <version>170818_beta</version>
 		<fileSize>Unknow</fileSize>
 	</app>
